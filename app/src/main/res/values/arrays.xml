@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="huayno">
+        <item>Valicha</item>
+        <item>Adios Pueblo de Ayacucho</item>
+        <item>Huerfano Pajarillo</item>
+        <item>Que linda flor</item>
+        <item>Ojos azules</item>
+    </string-array>
+    <string-array name="salsa">
+        <item>Lloraras</item>
+        <item>Fabricando fantasias</item>
+        <item>Ese hombre</item>
+        <item>Tu de que vas</item>
+        <item>Probablemente</item>
+    </string-array>
+    <string-array name="pop">
+        <item>Treat you better</item>
+        <item>Save your tears</item>
+        <item>Shake it off</item>
+        <item>What a time</item>
+        <item>Like I can</item>
+    </string-array>
+    <string-array name="reguetton">
+        <item>Bichota</item>
+        <item>Locura automatica</item>
+        <item>Llamada de emergencia</item>
+        <item>Pobre diabla</item>
+        <item>Salio el sol</item>
+    </string-array>
+    <string-array name="rock">
+        <item>Persiana Americana</item>
+        <item>Flaca</item>
+        <item>Kiss me</item>
+        <item>Everybodys changing</item>
+        <item>November Rain</item>
+    </string-array>
+</resources>
